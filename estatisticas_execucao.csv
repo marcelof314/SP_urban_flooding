@@ -1,2 +1,15 @@
 Pacote_Inicial,Pacote_Final,Tempo_Total_s,Eficiência_por_Pacote_s
-Pacote_66,Pacote_66,169.36,169.36
+Pacote_01,Pacote_05,294.97,58.99
+Pacote_06,Pacote_10,247.53,49.51
+Pacote_11,Pacote_15,188.36,37.67
+Pacote_16,Pacote_20,184.6,36.92
+Pacote_21,Pacote_25,243.57,48.71
+Pacote_26,Pacote_30,238.38,47.68
+Pacote_31,Pacote_35,236.99,47.4
+Pacote_36,Pacote_40,164.92,32.98
+Pacote_41,Pacote_45,189.01,37.8
+Pacote_46,Pacote_50,158.5,31.7
+Pacote_51,Pacote_55,188.32,37.66
+Pacote_56,Pacote_60,276.99,55.4
+Pacote_61,Pacote_65,244.1,48.82
+Pacote_66,Pacote_66,25.15,25.15
